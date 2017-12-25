@@ -1,2 +1,0 @@
-# DesignPattern
-Design Pattern Demo
